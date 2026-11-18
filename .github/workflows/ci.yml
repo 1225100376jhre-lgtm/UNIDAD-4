@@ -3,7 +3,7 @@ name: CI del validador de correos
 
 on:
   push:
-    branches: [principal]
+    branches: [main]
 
 jobs:
   test:
